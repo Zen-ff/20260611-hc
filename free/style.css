@@ -1,0 +1,18 @@
+@charset "utf-8";
+body{
+    background-color: rgb(119, 255, 0);
+}
+p {
+    color: cyan;
+    font-family: monospace;
+}
+h1{
+    color: red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
+    font-weight: 20px;
+}
+h2{
+    color:rgb(62, 107, 22);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+}
